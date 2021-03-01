@@ -37,6 +37,7 @@ markdown: kramdown
 
 ### Phantom settings
 #footer_text: '© 2018 Jami Gibbs'
+google_analytics: "UA-175323907-2" # Update with your own tracking ID
 #admin_name: 'Jami Gibbs'
 #enable_contact: false
 
