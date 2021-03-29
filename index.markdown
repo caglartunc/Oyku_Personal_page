@@ -6,9 +6,8 @@ title: Home
 
 <p align="center">
 	<br />
-  <!-- <img style="height:450px;width:450px" src="/assets/pics/profile3.jpg"> -->
-<!--   <img style="height:450px;width:487px" src="/assets/pics/oyku_profile.jpg"> -->
-  <img style="height:450px;width:490px" src="/assets/pics/oyku_profile_round.png">
+  <img style="height:450px;width:450px" src="/assets/pics/profile3.jpg">
+<!--   <img style="height:450px;width:490px" src="/assets/pics/oyku_profile_round.png"> -->
 </p>
 <!-- <p align="center">
 	<br />
