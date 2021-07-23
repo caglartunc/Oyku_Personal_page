@@ -12,6 +12,22 @@ permalink: /research/
 Harvard University Press, 2019. 296 pp. Business Ethics Quarterly, 30(4), 603-607.
 
 ## Conference Presentations
+* Warren, D. E. & **Arkan, O.** How to reduce unethical behavior and promote voice: The
+role of moral ownership and perspective-taking. In Gaspar, J. & Warren, D. E. (Chairs)
+Behavioral Ethics: Challenging Fundamental Assumptions and Insight in the Field. Symposium
+will be presented at the Academy of Management Annual Conference, Virtual, August 2021.
+* Alzola, M. & **Arkan, O.** Whistleblowing in the Catholic Church: The Role of Wrongdoing
+Characteristics and Ethical Climate. Paper will be presented at the Academy of Management
+Annual Conference, Virtual, August 2021.
+* **Arkan, O.** & Alzola, M. (Panel Organizers) To Blow or Not to Blow: Normative Approaches
+to Whistleblowing. To Be Presented at The Society for Business Ethics Annual
+Conference, Virtual, July 2021.
+* Warren, D. E., **Arkan, O.**, Scharding, T., & Nagpal, M. Don’t trust your gut: the
+importance of normative deliberation to ethical decision making at work. Paper presented
+at the ComplianceNet Annual Conference, Virtual, June 2021.
+* **Arkan, O.** The Competing Virtues of Loyalty and Courage: When Ethical Climate Does
+Not Lead to Whistleblowing. Paper presented at the International Association for
+Business and Society Annual Conference, Virtual, June 2021.
 *   **Arkan, O.** When does an ethical climate lead to silence? The role of moral character in
 predicting employee whistleblowing. Paper presented at the Society of Business Ethics
 Annual Conference, Virtual, August 2020.
@@ -28,11 +44,16 @@ of the European Association ofWork and Organizational Psychology, Dublin, Irelan
 May 2017.
 
 ## Research in Progress
-*   Scharding, T., Nagpal, M., **Arkan, O.** & Warren, D. E. What are you thinking about? The
-importance of normative deliberation to ethical decision-making at work.
-*   Warren, D. E. & **Arkan, O.** Promoting Effective Whistleblowing.
-*   Warren, D. E. & **Arkan, O.** Technology Firms as facilitators of Expression and Suppression
-of Voice.
-*   Warren, D. E. & **Arkan, O.** How to reduce unethical behavior and promote voice: The role
-of moral ownership and perspective-taking.
-*   Alzola, M. & **Arkan, O.** [Organizational Ethics, Secrecy, and Whistleblowing in Clergy Abuse Cases](https://www.fordham.edu/info/29949/miguel_alzola_and_%C3%B6yk%C3%BC_arkan).
+* **Arkan, O.**, Nagpal, M., Scharding, T. & Warren, D. E., Don’t Just Trust Your Gut: The
+Importance of Normative Deliberation to Ethical Decision-Making at Work, submitted to
+Journal of Business Ethics.
+* Alzola, M. & **Arkan, O.**, Whistleblowing in the Catholic Church: The Role of Wrongdoing
+Characteristics and Ethical Climate, selected as one of the papers awarded the Taking
+Responsibility Initiative grant from the Fordham University, target journal Business Ethics
+Quarterly.
+* Warren, D. E. & **Arkan, O.**, Promoting Effective Whistleblowing: The Role of Financial
+Incentives and Whistleblowing Retaliation.
+* Arkan, O., Preserving the image of the ethical organization: Impression management and
+whistleblowing.
+* Warren, D. E. & **Arkan, O.**, How to reduce unethical behavior and promote voice: The
+role of moral ownership and perspective-taking.
