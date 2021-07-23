@@ -53,7 +53,7 @@ Responsibility Initiative grant from the Fordham University, target journal Busi
 Quarterly.
 * Warren, D. E. & **Arkan, O.**, Promoting Effective Whistleblowing: The Role of Financial
 Incentives and Whistleblowing Retaliation.
-* Arkan, O., Preserving the image of the ethical organization: Impression management and
+* **Arkan, O.**, Preserving the image of the ethical organization: Impression management and
 whistleblowing.
 * Warren, D. E. & **Arkan, O.**, How to reduce unethical behavior and promote voice: The
 role of moral ownership and perspective-taking.
