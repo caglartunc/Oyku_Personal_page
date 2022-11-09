@@ -4,6 +4,7 @@ title: Research
 permalink: /research/
 ---
 ## Publications
+* **Arkan, O.**, Nagpal, M., Scharding, T. & Warren, D. E. 2022. [Don’t Just Trust Your Gut: The Importance of Normative Deliberation to Ethical Decision-Making at Work](https://link.springer.com/article/10.1007/s10551-022-05221-y), Journal of Business Ethics.
 *   **Arkan, O.** & Acar, P. 2020. [Understanding Organizational Deviance: An Interactive Model of Perceived Job Characteristics and Personality](https://open.metu.edu.tr/handle/11511/58103), METU Studies in Development, 47(1),
 1-28.
 
@@ -12,6 +13,8 @@ permalink: /research/
 Harvard University Press, 2019. 296 pp. Business Ethics Quarterly, 30(4), 603-607.
 
 ## Conference Presentations
+* Alzola, M. & **Arkan, O.** Whistleblowing in the Catholic Church: The Role of Wrongdoing
+Characteristics and Ethical Climate. Paper presented at the Taking Responsibility Initiative Conference, Fordham University, April 2022.
 * Warren, D. E. & **Arkan, O.** How to reduce unethical behavior and promote voice: The
 role of moral ownership and perspective-taking. In Gaspar, J. & Warren, D. E. (Chairs)
 Behavioral Ethics: Challenging Fundamental Assumptions and Insight in the Field. Symposium
@@ -44,9 +47,6 @@ of the European Association ofWork and Organizational Psychology, Dublin, Irelan
 May 2017.
 
 ## Research in Progress
-* **Arkan, O.**, Nagpal, M., Scharding, T. & Warren, D. E., Don’t Just Trust Your Gut: The
-Importance of Normative Deliberation to Ethical Decision-Making at Work, submitted to
-Journal of Business Ethics.
 * Alzola, M. & **Arkan, O.**, Whistleblowing in the Catholic Church: The Role of Wrongdoing
 Characteristics and Ethical Climate, selected as one of the papers awarded the Taking
 Responsibility Initiative grant from the Fordham University, target journal Business Ethics
