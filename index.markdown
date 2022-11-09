@@ -6,7 +6,7 @@ title: Home
 
 <p align="center">
 	<br />
-  <img style="height:450px;width:400px" src="/assets/pics/profile1122.png">
+  <img style="height:450px;width:420px" src="/assets/pics/profile1122.png">
 <!--   <img style="height:450px;width:490px" src="/assets/pics/oyku_profile_round.png"> -->
 </p>
 <!-- <p align="center">
