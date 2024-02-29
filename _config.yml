@@ -46,5 +46,6 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/research', text: 'Research' }
+  - { url: '/projects', text: 'Projects' }
   - { url: '/cv', text: 'CV' }
   - { url: '/contact', text: 'Contact' }
